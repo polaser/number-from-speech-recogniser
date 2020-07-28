@@ -9,4 +9,4 @@ Number from speech recogniser (Russian)
 
 Model - resnet34 (I changed only last layer)
 
-Model predicts one of 42 russian words, which used to translate numbers (from 1 to 999 999) to text.
+Model predicts spelled number (from 1 to 999 999) from speech to text.
